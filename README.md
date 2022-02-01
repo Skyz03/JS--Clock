@@ -41,6 +41,9 @@ Better background & the everysecond it is not constant and Resets everytime.
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/42742924/152007140-40d476d0-ddbe-4dc0-8a03-87dc4f5aa04f.png)
+
+
 ## Tech Stack
 
 **Client:** HTML, CSS/SCSS & JS
