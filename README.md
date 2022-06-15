@@ -16,6 +16,11 @@ This project is the second JS-30 challenge where I learned about ```DOM, Event L
 
 ## Lessons Learned
 
+```
+CSS 
+  transform-origin: 100%;
+```
+
 As this is one of the second JS challenge, here I first understood the loop of ```adding eventlisters.```
 
 ```DOM SELECTION => GET DATES/TIME => STYLES INTO DEGREE```.
